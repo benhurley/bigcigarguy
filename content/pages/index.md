@@ -12,15 +12,6 @@ sections:
       For those that love blasting a smooth ‘gar on the weekends, or enjoying a
       cold one after a day filled with corporate wins.
     actions:
-      - label: Learn More
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - type: Button
         label: Get started
         altText: ''
@@ -30,6 +21,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - label: Learn More
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
       - label: See Tutorials
         altText: ''
         url: /
