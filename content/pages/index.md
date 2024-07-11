@@ -69,8 +69,7 @@ sections:
 
 
           Today, our family-run organization continues to obsess over designing
-          simple, light-hearted, and high-quality clothing at the lowest prices
-          possible.
+          light-hearted, high-quality clothing at the lowest prices possible.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
