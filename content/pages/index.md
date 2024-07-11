@@ -80,33 +80,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-      - title: Merch Shop
-        subtitle: ''
-        text: >
-          We typically drop new items 1-2 times a year, using our quick feedback
-          loop to drive our next designs.
-
-
-          Let us know what you want to rock and we might just bring it to life!
-        image:
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-          url: /images/IMG_2438.JPG
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: Who's BCG?
         subtitle: ''
         text: |
