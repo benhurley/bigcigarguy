@@ -143,7 +143,7 @@ sections:
           Let us know what you want to rock and we might just bring it to life!
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/IMG_2438.JPG
           altText: Placeholder text
           styles:
             self:
