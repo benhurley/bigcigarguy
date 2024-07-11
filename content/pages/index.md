@@ -135,7 +135,7 @@ sections:
       - type: FeaturedItem
         title: Who's BCG?
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           There is a Big Cigar Guy within all of us.
 
