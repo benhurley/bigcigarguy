@@ -83,7 +83,7 @@
         },
         {
             "label": "Shop",
-            "url": "/",
+            "url": "https://bonfire.com/shop/bigcigarguy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
