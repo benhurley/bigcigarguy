@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Max
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
