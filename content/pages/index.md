@@ -279,7 +279,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: gar'd
-        subtitle: $ 44.99 – $ 90
+        subtitle: $23.50
         image:
           type: ImageBlock
           url: /images/Don.jpg
