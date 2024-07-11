@@ -329,7 +329,7 @@ sections:
             justifyContent: center
     actions:
       - type: Button
-        label: Get started
+        label: Visit Shop
         altText: ''
         url: 'https://www.bonfire.com/store/bigcigarguy/'
         showIcon: true
