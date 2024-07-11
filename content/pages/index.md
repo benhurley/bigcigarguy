@@ -63,17 +63,14 @@ sections:
       - type: FeaturedItem
         title: Our Start
         subtitle: ''
-        text: >+
+        text: >
           A few of us wanted a funny shirt to rock while lighting one up. Then
           we sold over a hundred of them.
 
 
-          Today, we continue to be a family-run organization designing simple,
-          high-quality clothing at the lowest prices possible.
-
-
-
-
+          Today, our family-run organization continues to obsess over designing
+          simple, funny, and high-quality clothing at the lowest prices
+          possible.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
