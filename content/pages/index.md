@@ -136,8 +136,13 @@ sections:
         title: Our Start
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          A few of us wanted a funny shirt to rock while lighting one up... then
+          we sold a hundred of them.
+
+
+          Today, our family-run organization continues to obsess over designing
+          light-hearted, high-quality clothing at the lowest prices possible.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
