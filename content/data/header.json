@@ -8,8 +8,7 @@
                 ]
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/site_logo.png"
+        "type": "ImageBlock"
     },
     "primaryLinks": [
         {
