@@ -16,7 +16,7 @@
         {
             "label": "Shop",
             "url": "https://bonfire.com/store/bigcigarguy",
-            "icon": "arrowRight",
+            "icon": "shoppingBag",
             "iconPosition": "left",
             "style": "primary",
             "type": "Button"
