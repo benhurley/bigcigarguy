@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: About Us
+      text: About
       color: text-dark
       styles:
         self:
