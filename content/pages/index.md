@@ -133,7 +133,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Merch Store
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           We typically drop new items 1-2 times a year, using our quick feedback
