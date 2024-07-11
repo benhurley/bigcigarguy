@@ -145,7 +145,7 @@ sections:
           light-hearted, high-quality clothing at the lowest prices possible.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/gard.jpg
           altText: Placeholder text
           styles:
             self:
