@@ -79,7 +79,6 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/gard.jpg
           styles:
             self:
               borderRadius: x-large
