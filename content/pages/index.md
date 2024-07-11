@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Since 2018
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      BCG fills a gap for those that love puffing on a smooth ‘gar, golfing on
+      the weekends, and enjoying a cold one after a day filled with corporate
+      wins.
     actions:
       - label: Get started
         altText: ''
