@@ -24,7 +24,7 @@ sections:
       - label: Learn More
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowDown
         iconPosition: left
         style: secondary
