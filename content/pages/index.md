@@ -122,6 +122,8 @@ sections:
       - title: Who's BCG?
         subtitle: ''
         text: |
+
+
           There is a Big Cigar Guy within all of us.
 
           To be fair, there might have been some inspiration for our logo...
