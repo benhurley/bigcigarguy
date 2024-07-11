@@ -3,10 +3,9 @@ title: Don
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  "When you are traveling and light up a cigar while wearing Big Cigar Guy gear,
+  people notice. They sure did in Italy and France! The quality and fit are
+  impeccable, highly recommend!"
 featuredImage:
   url: /images/IMG_5435.jpeg
   altText: Case study 3
