@@ -187,7 +187,7 @@ sections:
       type: TitleBlock
       text: Testimonials
       color: text-dark
-    showExcerpt: false
+    showExcerpt: true
   - title: Divider
     colors: bg-light-fg-dark
     styles:
