@@ -101,7 +101,7 @@ sections:
 
           Let us know what you want to rock and we might just bring it to life!
         image:
-          url: /images/icon2.svg
+          url: /images/IMG_2438.JPG
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
