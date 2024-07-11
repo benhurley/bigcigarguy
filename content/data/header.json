@@ -19,7 +19,8 @@
             "icon": "shoppingBag",
             "iconPosition": "left",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-centered",
