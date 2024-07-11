@@ -292,7 +292,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Cool Down
-        subtitle: $117
+        subtitle: $25.49
         image:
           type: ImageBlock
           url: /images/IMG_4979.JPG
