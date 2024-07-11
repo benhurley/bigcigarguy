@@ -121,10 +121,9 @@ sections:
         type: FeaturedItem
       - title: Who's BCG?
         subtitle: (We all are)
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          There is a Big Cigar Guy within all of us, although there might have
+          been some inspiration for our logo...
         image:
           url: /images/Screen Shot 2019-05-28 at 11.30.02 PM.png
           altText: Featured icon three
