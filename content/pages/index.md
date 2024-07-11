@@ -189,6 +189,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+        tagline: Keeps 'em frosty in the cart (or the beach).
       - type: FeaturedItem
         title: gar'd
         subtitle: $23.50
