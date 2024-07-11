@@ -83,7 +83,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Merch
+      - title: Merch Shop
         subtitle: ''
         text: >
           We typically drop new items 1-2 times a year, using our quick feedback
