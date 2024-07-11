@@ -242,7 +242,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-        tagline: The OG shirt that kicked this whole thing off.
+        tagline: Rep the OG shirt that started Big Cigar Guy.
     actions:
       - type: Button
         label: Visit Shop
