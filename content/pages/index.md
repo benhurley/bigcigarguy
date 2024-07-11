@@ -355,7 +355,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Big Cigar Guy
+  metaTitle: Home | Big Cigar Guy
   metaDescription: A Lifestyle Brand for the Modern-Day Cigar Enthusiast.
   socialImage: /images/main-hero.jpg
   type: Seo
