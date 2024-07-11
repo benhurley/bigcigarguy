@@ -43,6 +43,112 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
+      type: TitleBlock
+      text: Best Sellers
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    items:
+      - type: FeaturedItem
+        title: Hacker Sleeve
+        subtitle: $10.49
+        image:
+          type: ImageBlock
+          url: /images/koozie.jpg
+          altText: sleeve for can of beer
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: gar'd
+        subtitle: $23.50
+        image:
+          type: ImageBlock
+          url: /images/Don.jpg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: Cool Down
+        subtitle: $25.49
+        image:
+          type: ImageBlock
+          url: /images/IMG_4979.JPG
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: The BCG
+        subtitle: $25.50
+        image:
+          type: ImageBlock
+          url: /images/76767531_405210150367580_999512093201793024_n.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+    actions:
+      - type: Button
+        label: Visit Shop
+        altText: ''
+        url: 'https://www.bonfire.com/store/bigcigarguy/'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: primary
+        elementId: ''
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: flex-start
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
       text: About Us
       color: text-dark
       styles:
@@ -244,112 +350,6 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Best Sellers
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    items:
-      - type: FeaturedItem
-        title: Hacker Sleeve
-        subtitle: $10.49
-        image:
-          type: ImageBlock
-          url: /images/koozie.jpg
-          altText: sleeve for can of beer
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: gar'd
-        subtitle: $23.50
-        image:
-          type: ImageBlock
-          url: /images/Don.jpg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-      - type: FeaturedItem
-        title: Cool Down
-        subtitle: $25.49
-        image:
-          type: ImageBlock
-          url: /images/IMG_4979.JPG
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-      - type: FeaturedItem
-        title: The BCG
-        subtitle: $25.50
-        image:
-          type: ImageBlock
-          url: /images/76767531_405210150367580_999512093201793024_n.jpg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-    actions:
-      - type: Button
-        label: Visit Shop
-        altText: ''
-        url: 'https://www.bonfire.com/store/bigcigarguy/'
-        showIcon: true
-        icon: shoppingBag
-        iconPosition: left
-        style: primary
-        elementId: ''
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-8
-          - pr-8
-        justifyContent: flex-start
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
