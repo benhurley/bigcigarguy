@@ -1,8 +1,5 @@
 ---
-title: >-
-  "Super light, breathable, and true to size. Big fan of the color options, and
-  designs are simple and fun.Perfect gift for those who love cigars, whiskey,
-  and golf (so.. everyone?)."
+title: ''
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
