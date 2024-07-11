@@ -255,7 +255,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Hacker Sleeve
-        subtitle: $ 88 – $ 176
+        subtitle: $10.49
         image:
           type: ImageBlock
           url: /images/koozie.jpg
