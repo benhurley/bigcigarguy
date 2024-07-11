@@ -356,7 +356,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Big Cigar Guy
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: A Lifestyle Brand for the Modern-Day Cigar Enthusiast.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
