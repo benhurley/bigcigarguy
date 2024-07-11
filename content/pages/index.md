@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: A lifestyle brand for the modern-day cigar enthusiast
+      text: A lifestyle brand for the modern-day cigar enthusiast.
       color: text-dark
       type: TitleBlock
     subtitle: Since 2018
