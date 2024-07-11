@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Since 2018
     text: >
-      BCG fills a gap for those that love puffing on a smooth ‘gar, golfing on
-      the weekends, and enjoying a cold one after a day filled with corporate
-      wins.
+      For those that love blasting a smooth ‘gar on the weekends, or enjoying a
+      cold one after a day filled with corporate wins.
     actions:
       - label: Get started
         altText: ''
