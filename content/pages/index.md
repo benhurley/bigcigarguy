@@ -332,9 +332,9 @@ sections:
         label: Get started
         altText: ''
         url: 'https://www.bonfire.com/store/bigcigarguy/'
-        showIcon: false
+        showIcon: true
         icon: shoppingBag
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     elementId: ''
