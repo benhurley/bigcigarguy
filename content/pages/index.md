@@ -16,7 +16,7 @@ sections:
         label: Shop
         altText: ''
         url: /test
-        showIcon: false
+        showIcon: true
         icon: shoppingBag
         iconPosition: left
         style: primary
