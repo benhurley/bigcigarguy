@@ -1,5 +1,8 @@
 ---
-title: Case study 1
+title: >-
+  "Super light, breathable, and true to size. Big fan of the color options, and
+  designs are simple and fun.Perfect gift for those who love cigars, whiskey,
+  and golf (so.. everyone?)."
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
