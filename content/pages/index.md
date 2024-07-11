@@ -64,8 +64,8 @@ sections:
         title: Our Start
         subtitle: ''
         text: >
-          A few of us wanted a funny shirt to rock while lighting one up. Then
-          we sold over a hundred of them.
+          A few of us wanted a funny shirt to rock while lighting one up... then
+          we sold a hundred of them.
 
 
           Today, our family-run organization continues to obsess over designing
