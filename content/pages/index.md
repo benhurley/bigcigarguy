@@ -95,8 +95,10 @@ sections:
         subtitle: ''
         text: >
           We typically drop merch 1-2 times a year, using our customer feedback
-          loop to drive our next designs. Let us know what you want to rock and
-          we might just bring it to life!
+          loop to drive our next designs. 
+
+
+          Let us know what you want to rock and we might just bring it to life!
         image:
           url: /images/icon2.svg
           altText: Featured icon two
