@@ -64,7 +64,7 @@ sections:
           light-hearted, high-quality clothing at the lowest prices possible.
         image:
           type: ImageBlock
-          url: /images/gard.jpg
+          url: /images/Screen Shot 2019-05-27 at 8.52.54 PM.png
           altText: Placeholder text
           styles:
             self:
