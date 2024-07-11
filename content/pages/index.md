@@ -202,6 +202,7 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        tagline: Best to wear when you and the boys are rippin' a smooth gar.
       - type: FeaturedItem
         title: Cool Down
         subtitle: $25.49
