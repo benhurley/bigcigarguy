@@ -126,7 +126,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/Screen Shot 2019-05-28 at 11.27.41 PM.png
+          url: /images/Screen Shot 2019-05-28 at 11.30.02 PM.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
