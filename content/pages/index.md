@@ -259,7 +259,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/koozie.jpg
-          altText: Faux Fur Throw
+          altText: sleeve for can of beer
           elementId: ''
           styles:
             self:
