@@ -30,15 +30,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: shoppingBag
-        iconPosition: left
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Testimonial.JPG
       altText: Unblock your team boost your time to production preview
