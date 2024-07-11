@@ -186,7 +186,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Customer Stories
+      text: Testimonials
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
