@@ -18,7 +18,7 @@ sections:
         url: /test
         showIcon: false
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
       - label: Learn More
