@@ -247,7 +247,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Featured Items
+      text: Best Sellers
       color: text-dark
       styles:
         self:
