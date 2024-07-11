@@ -134,7 +134,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Our Start
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           A few of us wanted a funny shirt to rock while lighting one up... then
