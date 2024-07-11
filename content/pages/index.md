@@ -79,7 +79,6 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/gard.jpg
           styles:
             self:
               borderRadius: x-large
@@ -92,7 +91,6 @@ sections:
 
           Let us know what you want to rock and we might just bring it to life!
         image:
-          url: /images/IMG_2438.JPG
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -119,7 +117,6 @@ sections:
 
           To be fair, there might have been some inspiration for our logo...
         image:
-          url: /images/Screen Shot 2019-05-28 at 11.30.02 PM.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
