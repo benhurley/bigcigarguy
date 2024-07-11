@@ -83,7 +83,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Merch
+      - title: Merch Shop
         subtitle: ''
         text: >
           We typically drop new items 1-2 times a year, using our quick feedback
@@ -191,20 +191,6 @@ sections:
             justifyContent: center
         tagline: Keeps 'em frosty in the cart (or the beach).
       - type: FeaturedItem
-        title: gar'd
-        subtitle: $23.50
-        image:
-          type: ImageBlock
-          url: /images/Don.jpg
-          altText: Man in Europe with gar'd shirt
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        tagline: Best to wear when you're rippin' a smooth gar.
-      - type: FeaturedItem
         title: Cool Down
         subtitle: $25.49
         image:
@@ -243,6 +229,20 @@ sections:
             flexDirection: col
             justifyContent: center
         tagline: Rep the OG shirt that started Big Cigar Guy.
+      - type: FeaturedItem
+        title: gar'd
+        subtitle: $23.50
+        image:
+          type: ImageBlock
+          url: /images/Don.jpg
+          altText: Man in Europe with gar'd shirt
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        tagline: Best to wear when you're rippin' a smooth gar.
     actions:
       - type: Button
         label: Visit Shop
@@ -355,9 +355,11 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Home | Big Cigar Guy
+  metaDescription: A Lifestyle Brand for the Modern-Day Cigar Enthusiast.
+  socialImage: /images/Testimonial.JPG
   type: Seo
+  addTitleSuffix: true
+  metaTags: []
 type: PageLayout
 ---
