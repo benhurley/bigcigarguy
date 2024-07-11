@@ -121,9 +121,10 @@ sections:
         type: FeaturedItem
       - title: Who's BCG?
         subtitle: ''
-        text: >
-          There is a Big Cigar Guy within all of us, although there might have
-          been some inspiration for our logo...
+        text: |
+          We all are. There is a Big Cigar Guy within all of us
+
+          To be fair, there might have been some inspiration for our logo...
         image:
           url: /images/Screen Shot 2019-05-28 at 11.30.02 PM.png
           altText: Featured icon three
