@@ -120,7 +120,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Who's BCG?
-        subtitle: Faster
+        subtitle: (We all are)
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
