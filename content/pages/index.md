@@ -63,10 +63,12 @@ sections:
       - type: FeaturedItem
         title: Our Start
         subtitle: ''
-        text: |
-          BCG has always been just for fun. 
+        text: >
+          BCG has always been just for fun.
 
-          We originally wanted a shirt or two to rock while lighting one up.
+
+          A few of us wanted a funny shirt to rock while lighting one up. Then
+          we sold over a hundred of them. 
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
