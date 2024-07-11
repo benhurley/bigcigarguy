@@ -52,7 +52,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Our Start
+        title: Our Beginnings
         subtitle: ''
         text: >
           A few of us wanted a funny shirt to rock while lighting one up... then
