@@ -3,10 +3,9 @@ title: Max
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  "Super light, breathable, and true to size. Big fan of the color options, and
+  designs are simple and fun.Perfect gift for those who love cigars, whiskey,
+  and golf (so.. everyone?)."
 featuredImage:
   url: /images/IMG_3177.PNG
   altText: Case study 1
