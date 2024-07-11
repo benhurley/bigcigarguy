@@ -53,6 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Our Start
+        tagline: ''
         subtitle: ''
         text: >
           A few of us wanted a funny shirt to rock while lighting one up... then
@@ -61,9 +62,15 @@ sections:
 
           Today, our family-run organization continues to obsess over designing
           light-hearted, high-quality clothing at the lowest prices possible.
+        image:
+          type: ImageBlock
+          url: /images/Screen Shot 2019-05-27 at 8.52.54 PM.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -72,17 +79,10 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-      - title: Merch Shop
+            flexDirection: col-reverse
+      - type: FeaturedItem
+        title: Merch Store
+        tagline: ''
         subtitle: ''
         text: >
           We typically drop new items 1-2 times a year, using our quick feedback
@@ -91,11 +91,14 @@ sections:
 
           Let us know what you want to rock and we might just bring it to life!
         image:
-          altText: Featured icon two
-          elementId: ''
           type: ImageBlock
+          url: /images/IMG_2438.JPG
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -104,24 +107,24 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: Who's BCG?
+            flexDirection: col-reverse
+      - type: FeaturedItem
+        title: Who's BCG?
+        tagline: ''
         subtitle: ''
         text: |
-
-
           There is a Big Cigar Guy within all of us.
 
           To be fair, there might have been some inspiration for our logo...
         image:
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/Screen Shot 2019-05-28 at 11.30.02 PM.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -130,8 +133,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
+            flexDirection: col-reverse
     actions: []
     badge:
       label: ''
