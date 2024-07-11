@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Our Start
-        subtitle: '2018'
+        subtitle: ''
         text: >
           BCG has always been just for fun. We originally wanted a shirt or two
           to rock while lighting one up.
