@@ -95,8 +95,8 @@ sections:
       - title: Merch
         subtitle: ''
         text: >
-          We typically drop merch 1-2 times a year, using our customer feedback
-          loop to drive our next designs. 
+          We typically drop new items 1-2 times a year, using our quick feedback
+          loop to drive our next designs.
 
 
           Let us know what you want to rock and we might just bring it to life!
