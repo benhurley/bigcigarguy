@@ -63,12 +63,17 @@ sections:
       - type: FeaturedItem
         title: Our Start
         subtitle: ''
-        text: >
-          BCG has always been just for fun.
-
-
+        text: >+
           A few of us wanted a funny shirt to rock while lighting one up. Then
-          we sold over a hundred of them. 
+          we sold over a hundred of them.
+
+
+          Today, we continue to be a family-run organization designing simple,
+          high-quality clothing at the lowest prices possible.
+
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
