@@ -305,7 +305,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: The BCG
-        subtitle: $ 88 – $ 176
+        subtitle: $25.50
         image:
           type: ImageBlock
           url: /images/76767531_405210150367580_999512093201793024_n.jpg
