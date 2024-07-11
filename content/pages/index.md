@@ -278,7 +278,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: gar'd shirt
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
