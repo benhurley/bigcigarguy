@@ -13,7 +13,7 @@ sections:
       cold one after a day filled with corporate wins.
     actions:
       - type: Button
-        label: Get started
+        label: Shop
         altText: ''
         url: /test
         showIcon: false
