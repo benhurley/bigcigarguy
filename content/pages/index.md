@@ -108,30 +108,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-      - title: Who's BCG?
-        subtitle: ''
-        text: |
-
-
-          There is a Big Cigar Guy within all of us.
-
-          To be fair, there might have been some inspiration for our logo...
-        image:
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
       - type: FeaturedItem
         title: Who's BCG?
         tagline: ''
@@ -158,6 +134,30 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
+      - title: Who's BCG?
+        subtitle: ''
+        text: |
+
+
+          There is a Big Cigar Guy within all of us.
+
+          To be fair, there might have been some inspiration for our logo...
+        image:
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
     actions: []
     badge:
       label: ''
