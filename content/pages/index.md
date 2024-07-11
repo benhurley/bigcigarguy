@@ -61,7 +61,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Our Start
         subtitle: Numbers Done
         text: >+
           BCG started organically back in 2018. We just wanted a shirt or two to
