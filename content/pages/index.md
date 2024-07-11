@@ -242,6 +242,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+        tagline: The OG shirt that started BCG.
     actions:
       - type: Button
         label: Visit Shop
