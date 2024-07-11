@@ -327,7 +327,16 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://www.bonfire.com/store/bigcigarguy/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
