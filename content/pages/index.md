@@ -191,20 +191,6 @@ sections:
             justifyContent: center
         tagline: Keeps 'em frosty in the cart (or the beach).
       - type: FeaturedItem
-        title: gar'd
-        subtitle: $23.50
-        image:
-          type: ImageBlock
-          url: /images/Don.jpg
-          altText: Man in Europe with gar'd shirt
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        tagline: Best to wear when you're rippin' a smooth gar.
-      - type: FeaturedItem
         title: Cool Down
         subtitle: $25.49
         image:
@@ -243,6 +229,20 @@ sections:
             flexDirection: col
             justifyContent: center
         tagline: Rep the OG shirt that started Big Cigar Guy.
+      - type: FeaturedItem
+        title: gar'd
+        subtitle: $23.50
+        image:
+          type: ImageBlock
+          url: /images/Don.jpg
+          altText: Man in Europe with gar'd shirt
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        tagline: Best to wear when you're rippin' a smooth gar.
     actions:
       - type: Button
         label: Visit Shop
