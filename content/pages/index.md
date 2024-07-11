@@ -53,6 +53,35 @@ sections:
     items:
       - type: FeaturedItem
         title: Our Start
+        tagline: ''
+        subtitle: ''
+        text: >
+          A few of us wanted a funny shirt to rock while lighting one up... then
+          we sold a hundred of them.
+
+
+          Today, our family-run organization continues to obsess over designing
+          light-hearted, high-quality clothing at the lowest prices possible.
+        image:
+          type: ImageBlock
+          url: /images/gard.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+      - type: FeaturedItem
+        title: Our Start
         subtitle: ''
         text: >
           A few of us wanted a funny shirt to rock while lighting one up... then
@@ -82,35 +111,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - type: FeaturedItem
-        title: Our Start
-        tagline: ''
-        subtitle: ''
-        text: >
-          A few of us wanted a funny shirt to rock while lighting one up... then
-          we sold a hundred of them.
-
-
-          Today, our family-run organization continues to obsess over designing
-          light-hearted, high-quality clothing at the lowest prices possible.
-        image:
-          type: ImageBlock
-          url: /images/gard.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
       - title: Merch Shop
         subtitle: ''
         text: >
