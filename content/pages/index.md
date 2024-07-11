@@ -21,15 +21,6 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
-      - label: Learn More
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowDown
-        iconPosition: left
-        style: secondary
-        elementId: ''
-        type: Button
     media:
       url: /images/Testimonial.JPG
       altText: Unblock your team boost your time to production preview
