@@ -13,7 +13,7 @@ sections:
       cold one after a day filled with corporate wins.
     actions:
       - type: Button
-        label: Merch Store
+        label: Shop BCG Merch
         altText: ''
         url: 'http://bonfire.com/store/bigcigarguy'
         showIcon: true
