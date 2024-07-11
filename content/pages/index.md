@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Our Start
-        subtitle: Numbers Done
+        subtitle: '2018'
         text: >+
           BCG started organically back in 2018. We just wanted a shirt or two to
           rock while lighting one up.
