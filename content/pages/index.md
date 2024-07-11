@@ -91,18 +91,14 @@ sections:
               borderRadius: x-large
       - title: Game Plan
         subtitle: ''
-        text: >+
-          These days, we are a grassroots, family-run organization aiming to
-          provide fun and comfortable clothing at the lowest prices possible. 
+        text: >
+          These days, we aim aiming to provide fun and comfortable clothing at
+          the lowest prices possible.
 
 
           We typically drop merch 1-2 times a year, using our customer feedback
           loop to drive our next designs. Let us know what you want to rock and
           we might just bring it to life!
-
-
-
-
         image:
           url: /images/icon2.svg
           altText: Featured icon two
