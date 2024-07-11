@@ -15,7 +15,7 @@ sections:
       - type: Button
         label: Shop
         altText: ''
-        url: /test
+        url: 'http://bonfire.com/store/bigcigarguy'
         showIcon: true
         icon: shoppingBag
         iconPosition: left
