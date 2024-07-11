@@ -80,37 +80,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-      - type: FeaturedItem
-        title: Our Start
-        subtitle: ''
-        text: >
-          A few of us wanted a funny shirt to rock while lighting one up... then
-          we sold a hundred of them.
-
-
-          Today, our family-run organization continues to obsess over designing
-          light-hearted, high-quality clothing at the lowest prices possible.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
       - title: Merch Shop
         subtitle: ''
         text: >
