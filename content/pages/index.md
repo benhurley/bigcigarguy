@@ -92,7 +92,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Game Plan
+      - title: Merch
         subtitle: ''
         text: >
           We typically drop merch 1-2 times a year, using our customer feedback
