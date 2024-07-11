@@ -359,6 +359,6 @@ seo:
   metaDescription: A Lifestyle Brand for the Modern-Day Cigar Enthusiast.
   socialImage: /images/main-hero.jpg
   type: Seo
-  addTitleSuffix: false
+  addTitleSuffix: true
 type: PageLayout
 ---
