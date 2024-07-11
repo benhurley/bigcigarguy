@@ -30,6 +30,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /test
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/Testimonial.JPG
       altText: Unblock your team boost your time to production preview
