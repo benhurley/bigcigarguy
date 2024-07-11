@@ -17,7 +17,7 @@ sections:
         altText: ''
         url: /test
         showIcon: false
-        icon: arrowRight
+        icon: shoppingBag
         iconPosition: left
         style: primary
         elementId: ''
