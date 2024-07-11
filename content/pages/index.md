@@ -118,7 +118,7 @@ sections:
           To be fair, there might have been some inspiration for our logo...
         image:
           type: ImageBlock
-          url: /images/Screen Shot 2019-05-28 at 11.30.02 PM.png
+          url: /images/IMG_8506.JPG
           altText: Placeholder text
           styles:
             self:
