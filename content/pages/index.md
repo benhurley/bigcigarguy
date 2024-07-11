@@ -120,7 +120,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Who's BCG?
-        subtitle: (We all are)
+        subtitle: ''
         text: >
           There is a Big Cigar Guy within all of us, although there might have
           been some inspiration for our logo...
