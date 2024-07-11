@@ -12,7 +12,7 @@ sections:
       For those that love blasting a smooth ‘gar on the weekends, or enjoying a
       cold one after a day filled with corporate wins.
     actions:
-      - label: Get started
+      - label: Learn More
         altText: ''
         url: /
         showIcon: false
