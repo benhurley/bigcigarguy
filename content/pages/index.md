@@ -117,7 +117,6 @@ sections:
 
           To be fair, there might have been some inspiration for our logo...
         image:
-          url: /images/Screen Shot 2019-05-28 at 11.30.02 PM.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
