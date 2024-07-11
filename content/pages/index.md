@@ -333,7 +333,7 @@ sections:
         altText: ''
         url: 'https://www.bonfire.com/store/bigcigarguy/'
         showIcon: false
-        icon: arrowRight
+        icon: shoppingBag
         iconPosition: right
         style: primary
         elementId: ''
