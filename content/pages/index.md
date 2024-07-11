@@ -217,6 +217,7 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        tagline: Bring the 19th Hole to you.
       - type: FeaturedItem
         title: The BCG
         subtitle: $25.50
