@@ -135,8 +135,12 @@ sections:
         title: Merch Store
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We typically drop new items 1-2 times a year, using our quick feedback
+          loop to drive our next designs.
+
+
+          Let us know what you want to rock and we might just bring it to life!
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
