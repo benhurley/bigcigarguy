@@ -195,7 +195,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Don.jpg
-          altText: Cotton Knit Throws
+          altText: Man in Europe with gar'd shirt
           elementId: ''
           styles:
             self:
