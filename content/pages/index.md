@@ -360,5 +360,7 @@ seo:
   socialImage: /images/Testimonial.JPG
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
