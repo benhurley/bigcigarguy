@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Crafted For The Modern Cigar Buff
+      text: Crafted For A Modern Cigar Buff
       color: text-dark
       type: TitleBlock
     subtitle: Est. 2018
