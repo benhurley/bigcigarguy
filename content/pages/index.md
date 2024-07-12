@@ -42,7 +42,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: bigcigargu
+      text: bigcigarguy@pm.me
       color: text-dark
       type: TitleBlock
     subtitle: ''
