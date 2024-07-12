@@ -7,7 +7,7 @@ sections:
       text: Crafted For A Modern Cigar Buff
       color: text-dark
       type: TitleBlock
-    subtitle: Est. 2018
+    subtitle: Est. 201
     text: >
       Big Cigar Guy was made for those that love blasting a smooth ‘gar on the
       weekends, or enjoying a cold one after a day filled with corporate wins.
