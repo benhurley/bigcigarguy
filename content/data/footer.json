@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Big Cigar Guy\n",
+    "text": "Big Cigar Guy\n\n2019-2024, All Rights Reserved\n",
     "socialLinks": [
         {
             "altText": "Instagram link",
@@ -39,5 +39,22 @@
     ],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "primaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "",
+        "links": [
+            {
+                "type": "Link",
+                "label": "bigcigarguy@pm.me",
+                "altText": "",
+                "url": "mailto:bigcigarguy@pm.me",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    }
 }
