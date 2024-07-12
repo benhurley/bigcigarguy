@@ -27,7 +27,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Big CIGAR GUY (BCG)
+      label: Big CIGAR GUY
       color: text-primary
       type: Badge
     elementId: ''
