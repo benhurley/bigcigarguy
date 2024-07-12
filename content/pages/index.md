@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Merchendise For The Modern Cigar Enthusiast
+      text: Merch For The Modern Cigar Enthusiast
       color: text-dark
       type: TitleBlock
     subtitle: Est. 2018
