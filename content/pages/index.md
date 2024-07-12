@@ -253,7 +253,7 @@ sections:
         style: primary
         elementId: ''
     elementId: ''
-    variant: big-list
+    variant: small-list
     colors: bg-light-fg-dark
     styles:
       self:
