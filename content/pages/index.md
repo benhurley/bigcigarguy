@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: For the Modern-Day Cigar Enthusiast.
+      text: For the Modern Cigar Enthusiast.
       color: text-dark
       type: TitleBlock
     subtitle: Since 2018
