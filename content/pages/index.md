@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Crafted For A Modern Cigar Buff
+      text: Crafting Apparel For Modern Cigar Buffs Since 2018
       color: text-dark
       type: TitleBlock
     subtitle: ''
