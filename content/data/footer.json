@@ -42,7 +42,7 @@
     "type": "Footer",
     "primaryLinks": {
         "type": "FooterLinksGroup",
-        "title": "email us",
+        "title": "",
         "links": [
             {
                 "type": "Link",
