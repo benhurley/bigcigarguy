@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Merch For The Modern Cigar Buff
+      text: Cigar Merch Needed A Fresh Start
       color: text-dark
       type: TitleBlock
     subtitle: Est. 2018
