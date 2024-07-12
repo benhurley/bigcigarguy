@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Est. 2018
     text: >
-      For those that love blasting a smooth ‘gar on the weekends, or enjoying a
-      cold one after a day filled with corporate wins.
+      Big Cigar Guy was made for those that love blasting a smooth ‘gar on the
+      weekends, or enjoying a cold one after a day filled with corporate wins.
     actions:
       - type: Button
         label: Visit Our Shop
