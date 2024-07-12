@@ -271,7 +271,7 @@ sections:
     showThumbnail: true
     showDate: true
     showAuthor: false
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
