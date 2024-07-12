@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Cigar Merch Needed A Fresh Start
+      text: Crafted for the Cigar Connoisseur
       color: text-dark
       type: TitleBlock
     subtitle: Est. 2018
