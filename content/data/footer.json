@@ -46,7 +46,7 @@
         "links": [
             {
                 "type": "Link",
-                "label": "Email",
+                "label": "Email Us",
                 "altText": "",
                 "url": "mailto:bigcigarguy@pm.me",
                 "showIcon": false,
