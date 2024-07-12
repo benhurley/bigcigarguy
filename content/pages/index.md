@@ -118,7 +118,7 @@ sections:
           To be fair, there might have been some inspiration for our logo...
         image:
           type: ImageBlock
-          url: /images/Screen Shot 2019-05-28 at 11.30.02 PM.png
+          url: /images/IMG_8506.JPG
           altText: Placeholder text
           styles:
             self:
@@ -143,7 +143,7 @@ sections:
           textAlign: center
       type: Badge
     elementId: ''
-    variant: three-col-grid
+    variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -253,7 +253,7 @@ sections:
         style: primary
         elementId: ''
     elementId: ''
-    variant: two-col-grid
+    variant: small-list
     colors: bg-light-fg-dark
     styles:
       self:
@@ -265,29 +265,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: false
-    variant: two-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: Testimonials
-      color: text-dark
-    showExcerpt: true
   - title: Divider
     colors: bg-light-fg-dark
     styles:
