@@ -4,13 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Crafted For The Modern Cigar Buff
+      text: Taylormade Apparel For Cigar Buffs Since 2018
       color: text-dark
       type: TitleBlock
-    subtitle: Est. 2018
+    subtitle: ''
     text: >
-      For those that love blasting a smooth ‘gar on the weekends, or enjoying a
-      cold one after a day filled with corporate wins.
+      Big Cigar Guy was made for those that love blasting a smooth ‘gar on the
+      weekends, or enjoying a cold one after a day filled with corporate wins.
     actions:
       - type: Button
         label: Visit Our Shop
@@ -27,7 +27,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Big CIGAR GUY (BCG)
+      label: Big CIGAR GUY
       color: text-primary
       type: Badge
     elementId: ''
