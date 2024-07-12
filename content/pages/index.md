@@ -13,7 +13,7 @@ sections:
       cold one after a day filled with corporate wins.
     actions:
       - type: Button
-        label: Shop
+        label: Visit Our Shop
         altText: ''
         url: 'http://bonfire.com/store/bigcigarguy'
         showIcon: true
@@ -27,7 +27,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Big CIGAR GUY
+      label: Big CIGAR GUY (BCG)
       color: text-primary
       type: Badge
     elementId: ''
