@@ -101,7 +101,7 @@ seo:
   metaDescription: A Lifestyle Brand for the Modern-Day Cigar Enthusiast.
   socialImage: /images/Testimonial.JPG
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
   metaTags: []
 type: PageLayout
 ---
