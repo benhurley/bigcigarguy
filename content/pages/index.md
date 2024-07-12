@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Merch For The Modern Cigar
+      text: Merch For The Modern Cigar Buff
       color: text-dark
       type: TitleBlock
     subtitle: Est. 2018
