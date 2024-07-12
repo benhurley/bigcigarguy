@@ -98,7 +98,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home | Big Cigar Guy
-  metaDescription: A Lifestyle Brand for the Modern-Day Cigar Enthusiast.
+  metaDescription: A Lifestyle Brand Crafted For The Modern Cigar Buff
   socialImage: /images/Testimonial.JPG
   type: Seo
   addTitleSuffix: false
