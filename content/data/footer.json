@@ -48,7 +48,7 @@
                 "type": "Link",
                 "label": "Email",
                 "altText": "",
-                "url": "/",
+                "url": "mailto:bigcigarguy@pm.me",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
