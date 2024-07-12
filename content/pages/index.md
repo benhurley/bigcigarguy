@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Crafted for the Cigar Connoisseur
+      text: Crafted for the modern Cigar Connoisseur
       color: text-dark
       type: TitleBlock
     subtitle: Est. 2018
