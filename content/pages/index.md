@@ -7,7 +7,7 @@ sections:
       text: Merchendise For The Modern Cigar Enthusiast
       color: text-dark
       type: TitleBlock
-    subtitle: Since 2018
+    subtitle: Est. 2018
     text: >
       For those that love blasting a smooth ‘gar on the weekends, or enjoying a
       cold one after a day filled with corporate wins.
