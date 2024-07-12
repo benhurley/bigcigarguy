@@ -46,7 +46,7 @@
         "links": [
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Email",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
