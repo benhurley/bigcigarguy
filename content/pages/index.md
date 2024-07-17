@@ -57,7 +57,7 @@ sections:
       - type: FeaturedItem
         title: >-
           "When you are traveling and light up a cigar while wearing BCG gear,
-          people notice! The quality and fit are impeccable, highly recommend!
+          people notice! The quality and fit are impeccable, highly recommend.
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >-
