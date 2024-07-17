@@ -23,7 +23,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Send Us An Email
+        label: Email Us
         altText: Play
         url: 'mailto:bigcigarguy@pm.me'
         showIcon: true
