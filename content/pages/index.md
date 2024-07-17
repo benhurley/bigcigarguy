@@ -286,7 +286,7 @@ sections:
         tagline: Hacker Sleeve
         subtitle: $10.49
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Keeps 'em frosty in the cart (or on the beach).
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
