@@ -79,7 +79,7 @@ sections:
             showIcon: true
             icon: shoppingBag
             iconPosition: left
-            style: primary
+            style: secondary
             elementId: ''
         colors: bg-light-fg-dark
         tagline: Best Seller
