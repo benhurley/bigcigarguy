@@ -73,7 +73,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Buy
+            label: Shop Cool Downs
             altText: ''
             url: 'https://bonfire.com/cool-down'
             showIcon: true
