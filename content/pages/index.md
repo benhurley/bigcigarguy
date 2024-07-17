@@ -57,8 +57,8 @@ sections:
       - type: FeaturedItem
         title: >-
           "When you are traveling and light up a cigar while wearing Big Cigar
-          Guy gear, people notice. They sure did in Italy and France! The
-          quality and fit are impeccable, highly recommend!
+          Guy gear, people notice! The quality and fit are impeccable, highly
+          recommend!
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >-
