@@ -29,7 +29,7 @@ sections:
         showIcon: true
         icon: mail
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
     media:
       url: /images/Testimonial.JPG
