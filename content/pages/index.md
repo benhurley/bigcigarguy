@@ -34,7 +34,7 @@ sections:
       - type: Link
         label: Send email
         altText: Play
-        url: /test
+        url: 'mailto:bigcigarguy@pm.me'
         showIcon: true
         icon: mail
         iconPosition: left
