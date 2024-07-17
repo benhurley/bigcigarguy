@@ -244,7 +244,7 @@ sections:
     subtitle: ''
     text: >
       We love sponsoring everything from Member-Guests to Social Clubs. For
-      large orders, reach out directly for wholesale pricing.
+      large orders, send us an email for details and wholesale pricing.
     actions:
       - type: Link
         label: Email Us
