@@ -258,7 +258,7 @@ sections:
       - type: FeaturedItem
         title: Business Consulting
         tagline: gar'd
-        subtitle: Be in good company
+        subtitle: $23.50
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
         image:
           type: ImageBlock
