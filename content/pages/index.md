@@ -158,7 +158,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: gar'd
-        tagline: ''
+        tagline: BEST SELLER
         subtitle: $23.50
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
         image:
