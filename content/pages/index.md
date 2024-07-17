@@ -90,7 +90,9 @@ sections:
           options, and designs are simple and fun.”
         tagline: ''
         subtitle: '- Max, Florida'
-        text: ''
+        text: |2+
+           \- Max, Florida
+
         image:
           type: ImageBlock
           url: /images/IMG_3177.PNG
