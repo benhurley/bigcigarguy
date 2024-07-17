@@ -26,7 +26,7 @@ sections:
         altText: ''
         url: '@mailto:bigcigarguy@pm.me'
         showIcon: false
-        icon: arrowRight
+        icon: mail
         iconPosition: right
         style: secondary
         elementId: ''
