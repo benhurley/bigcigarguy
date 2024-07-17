@@ -169,16 +169,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions:
-          - type: Button
-            label: Buy
-            altText: ''
-            url: 'https://www.bonfire.com/gard'
-            showIcon: true
-            icon: shoppingBag
-            iconPosition: left
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
