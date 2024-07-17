@@ -22,15 +22,6 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
-      - type: Button
-        label: Contact Us
-        altText: ''
-        url: '@mailto:bigcigarguy@pm.me'
-        showIcon: true
-        icon: mail
-        iconPosition: left
-        style: secondary
-        elementId: ''
       - type: Link
         label: Send email
         altText: Play
