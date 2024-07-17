@@ -64,7 +64,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/IMG_3177.PNG
-          altText: Maria Walters
+          altText: Max wearing BCG OG shirt
           styles:
             self:
               borderRadius: full
