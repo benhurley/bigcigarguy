@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Life's Too Short for Stale Cigars and Boring Shirts.
+      text: Light up your style with cigar-inspired merch
       color: text-dark
       type: TitleBlock
     subtitle: ''
