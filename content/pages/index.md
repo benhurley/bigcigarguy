@@ -56,33 +56,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “Super light, breathable, and true to size. Big fan of the color
-          options, and designs are simple and fun..”
-        tagline: ''
-        subtitle: '- Max, Florida'
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/IMG_3177.PNG
-          altText: Max wearing BCG OG shirt
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
           “Quote from some important person goes right here. I love using
           Netlify.”
         tagline: Testimonial 2
@@ -100,6 +73,33 @@ sections:
               borderRadius: full
         actions: []
         colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: >-
+          “Super light, breathable, and true to size. Big fan of the color
+          options, and designs are simple and fun..”
+        tagline: ''
+        subtitle: '- Max, Florida'
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/IMG_3177.PNG
+          altText: Max wearing BCG OG shirt
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
