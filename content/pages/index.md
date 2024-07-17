@@ -114,7 +114,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-        tagline: Back In Stock
+        tagline: ''
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
     actions: []
     elementId: ''
