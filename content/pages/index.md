@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Apparel For Modern Cigar Buffs Since 2018
+      text: Apparel Made to Wear While Blastin' Cigars
       color: text-dark
       type: TitleBlock
     subtitle: ''
