@@ -143,7 +143,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-        tagline: ''
+        tagline: Best Seller
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
     actions: []
     elementId: ''
