@@ -54,7 +54,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Featured Items
       color: text-dark
       styles:
         self:
