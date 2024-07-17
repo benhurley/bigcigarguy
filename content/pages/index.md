@@ -27,7 +27,7 @@ sections:
         url: '@mailto:bigcigarguy@pm.me'
         showIcon: false
         icon: mail
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
     media:
