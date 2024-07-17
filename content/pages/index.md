@@ -98,7 +98,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: Buy
             altText: ''
             url: 'https://bonfire.com/hacker-sleeve'
             showIcon: false
