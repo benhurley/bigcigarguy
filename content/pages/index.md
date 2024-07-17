@@ -224,7 +224,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    variant: next-prev-nav-multiple
+    variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
       self:
