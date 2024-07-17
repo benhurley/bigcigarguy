@@ -77,7 +77,7 @@ sections:
             altText: ''
             url: 'https://bonfire.com/cool-down'
             showIcon: true
-            icon: arrowRight
+            icon: shoppingBag
             iconPosition: right
             style: primary
             elementId: ''
