@@ -123,7 +123,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Cool Down
-        tagline: Cool Down
+        tagline: BEST SELLER
         subtitle: $25.49
         text: |
           Nothing better after 18 than a Cool Down on 19.
@@ -158,7 +158,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: gar'd
-        tagline: gar'd
+        tagline: ''
         subtitle: $23.50
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
         image:
@@ -193,7 +193,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Hacker Sleeve
-        tagline: Hacker Sleeve
+        tagline: BACK IN STOCK
         subtitle: $10.49
         text: |
           Keeps 'em frosty in the cart (or on the beach).
@@ -224,7 +224,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    variant: tabs-nav
+    variant: dots-nav
     colors: bg-light-fg-dark
     styles:
       self:
@@ -233,8 +233,9 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Best Sellers
+      text: Featured Collection
       color: text-dark
+    subtitle: ''
 seo:
   metaTitle: Home | Big Cigar Guy
   metaDescription: A Lifestyle Brand Crafted For The Modern Cigar Buff
