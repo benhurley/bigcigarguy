@@ -141,7 +141,7 @@ sections:
             url: 'https://bonfire.com/cool-down'
             showIcon: false
             icon: shoppingBag
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         colors: bg-neutralAlt-fg-dark
