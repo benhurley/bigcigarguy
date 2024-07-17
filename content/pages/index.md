@@ -235,6 +235,7 @@ sections:
       type: TitleBlock
       text: Best Sellers
       color: text-dark
+    subtitle: Best Sellers
 seo:
   metaTitle: Home | Big Cigar Guy
   metaDescription: A Lifestyle Brand Crafted For The Modern Cigar Buff
