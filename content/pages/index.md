@@ -246,12 +246,6 @@ sections:
       We love sponsoring everything from Member-Guests to Social Clubs. For
       large orders, reach out directly for wholesale pricing.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
