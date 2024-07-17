@@ -102,7 +102,7 @@ sections:
             altText: ''
             url: 'https://bonfire.com/hacker-sleeve'
             showIcon: false
-            icon: arrowRight
+            icon: shoppingBag
             iconPosition: left
             style: primary
             elementId: ''
