@@ -176,7 +176,7 @@ sections:
             url: 'https://www.bonfire.com/gard'
             showIcon: false
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         colors: bg-dark-fg-light
