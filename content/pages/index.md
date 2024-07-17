@@ -114,6 +114,7 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        tagline: Best Seller
     actions: []
     elementId: ''
     variant: three-col-grid
