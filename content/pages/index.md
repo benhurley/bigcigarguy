@@ -75,6 +75,21 @@ sections:
         colors: bg-light-fg-dark
         tagline: Best Seller
       - type: FeaturedItem
+        title: Hacker Sleeve
+        subtitle: $10.49
+        image:
+          type: ImageBlock
+          url: /images/koozie.jpg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        text: |
+          Keeps 'em frosty in the cart (or on the beach).
+      - type: FeaturedItem
         title: gar'd
         subtitle: $23.50
         image:
@@ -100,21 +115,6 @@ sections:
             justifyContent: center
         tagline: Back In Stock
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
-      - type: FeaturedItem
-        title: Hacker Sleeve
-        subtitle: $10.49
-        image:
-          type: ImageBlock
-          url: /images/koozie.jpg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        text: |
-          Keeps 'em frosty in the cart (or on the beach).
     actions: []
     elementId: ''
     variant: three-col-grid
