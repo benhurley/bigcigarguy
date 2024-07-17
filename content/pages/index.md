@@ -22,7 +22,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Contact Us
         altText: ''
         url: '@mailto:bigcigarguy@pm.me'
         showIcon: false
