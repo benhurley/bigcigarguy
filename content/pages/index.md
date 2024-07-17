@@ -10,8 +10,8 @@ sections:
     subtitle: ''
     text: >
       Big Cigar Guy was made for those that don't take life too serious, love
-      blasting a smooth ‘gar on the weekends, and enjoying a cold one after a
-      day filled with corporate wins.
+      blasting a smooth ‘gar on the weekends, and indulge in a cold beverage
+      after a day filled with corporate wins.
     actions:
       - type: Button
         label: Visit Our Shop
