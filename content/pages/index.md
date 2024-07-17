@@ -147,7 +147,7 @@ sections:
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
     actions: []
     elementId: ''
-    variant: small-list
+    variant: big-list
     colors: bg-light-fg-dark
     styles:
       self:
