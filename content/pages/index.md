@@ -253,7 +253,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Don.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
