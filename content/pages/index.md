@@ -232,7 +232,7 @@ sections:
       - type: FeaturedItem
         title: Cool Down
         tagline: Cool Down
-        subtitle: Increase your reach
+        subtitle: $25.49
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
