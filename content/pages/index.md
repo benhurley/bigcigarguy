@@ -247,7 +247,7 @@ sections:
       large orders, reach out directly for wholesale pricing.
     actions:
       - type: Link
-        label: See Tutorials
+        label: Email Us
         url: /
         showIcon: true
         icon: arrowRight
