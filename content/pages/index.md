@@ -179,7 +179,7 @@ sections:
             iconPosition: left
             style: primary
             elementId: ''
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
