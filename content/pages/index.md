@@ -227,105 +227,76 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: TEST
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
+  - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
-        image:
-          type: ImageBlock
-          url: /images/Don.jpg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-              padding:
-                - pt-0
-                - pl-0
-                - pb-0
-                - pr-0
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderWidth: 2
-            borderRadius: x-small
-            flexDirection: row-reverse
-            justifyContent: center
-            borderStyle: dotted
-      - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        title: Social Media Management
+        tagline: Cool Down
+        subtitle: Increase your reach
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           type: ImageBlock
           url: /images/IMG_2438.JPG
-          altText: Cotton Knit Throws
-          elementId: ''
+          altText: Featured item
           styles:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
             flexDirection: row
+            justifyContent: center
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
+        title: Business Consulting
+        tagline: gar'd
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           type: ImageBlock
-          url: /images/76767531_405210150367580_999512093201793024_n.jpg
-          altText: Chunky Cotton Knit Throw
+          url: /images/img-placeholder.svg
+          altText: Business consulting
           elementId: ''
           styles:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
             flexDirection: row
-    actions: []
-    elementId: ''
-    variant: small-list
+            justifyContent: center
+    variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
       self:
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: Featured Collection
+      color: text-dark
 seo:
   metaTitle: Home | Big Cigar Guy
   metaDescription: A Lifestyle Brand Crafted For The Modern Cigar Buff
