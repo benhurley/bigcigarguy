@@ -88,7 +88,7 @@ sections:
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
       - type: FeaturedItem
         title: Hacker Sleeve
-        subtitle: $ 44.99 – $ 90
+        subtitle: $10.49
         image:
           type: ImageBlock
           url: /images/koozie.jpg
