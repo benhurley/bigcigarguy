@@ -51,6 +51,74 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: >-
+          "When you are traveling and light up a cigar while wearing BCG gear,
+          people notice! The quality and fit are impeccable, highly recommend.
+        tagline: ''
+        subtitle: '- Don, Alabama'
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Don copy.jpg
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: >-
+          “Super light, breathable, and true to size. Big fan of the color
+          options, and designs are simple and fun.”
+        tagline: ''
+        subtitle: '- Max, Florida'
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/IMG_3177.PNG
+          altText: Max wearing BCG OG shirt
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: Reviews
+      color: text-dark
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -159,74 +227,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-  - type: CarouselSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: >-
-          "When you are traveling and light up a cigar while wearing BCG gear,
-          people notice! The quality and fit are impeccable, highly recommend.
-        tagline: ''
-        subtitle: '- Don, Alabama'
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Don copy.jpg
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
-          “Super light, breathable, and true to size. Big fan of the color
-          options, and designs are simple and fun.”
-        tagline: ''
-        subtitle: '- Max, Florida'
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/IMG_3177.PNG
-          altText: Max wearing BCG OG shirt
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    title:
-      type: TitleBlock
-      text: Reviews
-      color: text-dark
 seo:
   metaTitle: Home | Big Cigar Guy
   metaDescription: A Lifestyle Brand Crafted For The Modern Cigar Buff
