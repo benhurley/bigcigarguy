@@ -211,7 +211,7 @@ sections:
             url: 'https://www.bonfire.com/hacker-sleeve'
             showIcon: false
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         colors: bg-neutral-fg-dark
