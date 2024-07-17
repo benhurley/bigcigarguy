@@ -102,7 +102,7 @@ sections:
         text: |
           Keeps 'em frosty in the cart (or on the beach).
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Cool Down
         subtitle: $117
         image:
           type: ImageBlock
