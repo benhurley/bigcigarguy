@@ -206,7 +206,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Buy
             altText: ''
             url: 'https://www.bonfire.com/hacker-sleeve'
             showIcon: false
