@@ -239,7 +239,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Need Gear For Your Clubhouse or Event?
+      text: Need Gear For Your Clubhouse / Event?
       color: text-dark
     subtitle: ''
     text: >
