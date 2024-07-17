@@ -241,7 +241,7 @@ sections:
       type: TitleBlock
       text: Need Gear For Your Event?
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Choose us as a spon
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
