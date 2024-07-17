@@ -123,7 +123,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Testimonials
+      text: Reviews
       color: text-dark
 seo:
   metaTitle: Home | Big Cigar Guy
