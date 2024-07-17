@@ -284,7 +284,7 @@ sections:
       - type: FeaturedItem
         title: Hacker Sleeve
         tagline: Hacker Sleeve
-        subtitle: This is the item subtitle
+        subtitle: $10.49
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
