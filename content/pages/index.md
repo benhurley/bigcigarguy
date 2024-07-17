@@ -96,7 +96,7 @@ sections:
             self:
               borderRadius: full
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -109,7 +109,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: next-prev-nav
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
@@ -144,7 +144,7 @@ sections:
             iconPosition: left
             style: primary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -158,7 +158,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: gar'd
-        tagline: ''
+        tagline: BEST SELLER
         subtitle: $23.50
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
         image:
@@ -179,7 +179,7 @@ sections:
             iconPosition: left
             style: primary
             elementId: ''
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -257,7 +257,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
