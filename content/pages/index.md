@@ -89,6 +89,7 @@ sections:
         colors: bg-light-fg-dark
         text: |
           Keeps 'em frosty in the cart (or on the beach).
+        tagline: Back In Stock
       - type: FeaturedItem
         title: gar'd
         subtitle: $23.50
