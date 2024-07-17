@@ -58,7 +58,7 @@ sections:
         title: >-
           “Super light, breathable, and true to size. Big fan of the color
           options, and designs are simple and fun..”
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
