@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Light up your style with cigar-inspired merch
+      text: Light up your style with Big Cigar Guy
       color: text-dark
       type: TitleBlock
     subtitle: ''
