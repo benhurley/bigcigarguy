@@ -56,8 +56,8 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Super light, breathable, and true to size. Big fan of the color
+          options, and designs are simple and fun..”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
