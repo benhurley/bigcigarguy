@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Taylormade Apparel For Cigar Buffs Since 2018
+      text: Apparel For Cigar Buffs Since 2018
       color: text-dark
       type: TitleBlock
     subtitle: ''
