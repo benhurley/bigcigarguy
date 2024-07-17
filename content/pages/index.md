@@ -89,7 +89,7 @@ sections:
           “Super light, breathable, and true to size. Big fan of the color
           options, and designs are simple and fun.”
         tagline: ''
-        subtitle: '- Max, Florida'
+        subtitle: ''
         text: |2+
            \- Max, Florida
 
