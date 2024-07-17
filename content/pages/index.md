@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: gar'd
-        subtitle: $ 88 – $ 176
+        subtitle: $23.50
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
