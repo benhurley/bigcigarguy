@@ -243,8 +243,8 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      We love sponsoring everything from Member-Guests to Social Clubs. For
+      large orders, reach out directly for wholesale pricing.
     actions:
       - type: Button
         label: Get started
