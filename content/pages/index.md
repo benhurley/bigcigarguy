@@ -59,7 +59,7 @@ sections:
           “Super light, breathable, and true to size. Big fan of the color
           options, and designs are simple and fun..”
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Max, Florida'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
