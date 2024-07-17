@@ -84,7 +84,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-        tagline: Best to wear when you and the boys are rippin'
+        tagline: "/ˈ[ gahrd ]/ (adjective)\_That mid-cigar feeling."
       - type: FeaturedItem
         title: Cotton Knit Throws
         subtitle: $ 44.99 – $ 90
