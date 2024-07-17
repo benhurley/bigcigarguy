@@ -119,23 +119,18 @@ sections:
       type: TitleBlock
       text: Reviews
       color: text-dark
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Featured Collection
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
+  - type: CarouselSection
     items:
       - type: FeaturedItem
         title: Cool Down
+        tagline: Cool Down
         subtitle: $25.49
+        text: |
+          Nothing better after 18 than a Cool Down on 19.
         image:
           type: ImageBlock
           url: /images/IMG_4979.JPG
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
+          altText: Featured item
           styles:
             self:
               borderRadius: medium
@@ -149,102 +144,6 @@ sections:
             iconPosition: left
             style: primary
             elementId: ''
-        colors: bg-light-fg-dark
-        tagline: Best Seller
-        text: |
-          Nothing better after 18 than a Cool Down on 19.
-      - type: FeaturedItem
-        title: Hacker Sleeve
-        subtitle: $10.49
-        image:
-          type: ImageBlock
-          url: /images/koozie.jpg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: Buy
-            altText: ''
-            url: 'https://bonfire.com/hacker-sleeve'
-            showIcon: true
-            icon: shoppingBag
-            iconPosition: left
-            style: primary
-            elementId: ''
-        colors: bg-light-fg-dark
-        text: |
-          Keeps 'em frosty in the cart (or on the beach).
-        tagline: Back In Stock
-      - type: FeaturedItem
-        title: gar'd
-        subtitle: $23.50
-        image:
-          type: ImageBlock
-          url: /images/IMG_2438.JPG
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: Buy
-            altText: ''
-            url: 'https://bonfire.com/gard'
-            showIcon: true
-            icon: shoppingBag
-            iconPosition: left
-            style: primary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-        tagline: Best Seller
-        text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-8
-          - pr-8
-        justifyContent: flex-start
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Social Media Management
-        tagline: Cool Down
-        subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/IMG_2438.JPG
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -258,22 +157,28 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: gar'd
         tagline: gar'd
-        subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: $23.50
+        text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/IMG_2438.JPG
           altText: Business consulting
           elementId: ''
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://www.bonfire.com/gard'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
@@ -286,6 +191,39 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: Hacker Sleeve
+        tagline: Hacker Sleeve
+        subtitle: $10.49
+        text: |
+          Keeps 'em frosty in the cart (or on the beach).
+        image:
+          type: ImageBlock
+          url: /images/koozie.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://www.bonfire.com/hacker-sleeve'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
@@ -295,7 +233,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Featured Collection
+      text: Best Sellers
       color: text-dark
 seo:
   metaTitle: Home | Big Cigar Guy
