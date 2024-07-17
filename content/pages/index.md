@@ -117,7 +117,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Reviews
+      text: Testimonials
       color: text-dark
   - type: CarouselSection
     items:
@@ -233,9 +233,34 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Featured Collection
+      text: Summer 2024 Collection
       color: text-dark
     subtitle: ''
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Need Merch For An Event?
+      color: text-dark
+    subtitle: ''
+    text: >
+      We love sponsoring everything from Member-Guests to Social Clubs. For
+      large orders, wholesale pricing may be available.
+    actions:
+      - type: Link
+        label: Email Us
+        url: 'mailto:bigcigarguy@pm.me'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
 seo:
   metaTitle: Home | Big Cigar Guy
   metaDescription: A Lifestyle Brand Crafted For The Modern Cigar Buff
