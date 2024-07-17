@@ -61,6 +61,20 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
+        title: Cool Down
+        subtitle: $117
+        image:
+          type: ImageBlock
+          url: /images/IMG_4979.JPG
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        tagline: Best Seller
+      - type: FeaturedItem
         title: gar'd
         subtitle: $23.50
         image:
@@ -101,20 +115,6 @@ sections:
         colors: bg-light-fg-dark
         text: |
           Keeps 'em frosty in the cart (or on the beach).
-      - type: FeaturedItem
-        title: Cool Down
-        subtitle: $117
-        image:
-          type: ImageBlock
-          url: /images/IMG_4979.JPG
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        tagline: Best Seller
     actions: []
     elementId: ''
     variant: three-col-grid
