@@ -56,8 +56,9 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          "When you are traveling and light up a cigar while wearing Big Cigar
+          Guy gear, people notice. They sure did in Italy and France! /n The
+          quality and fit are impeccable, highly recommend!
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >-
