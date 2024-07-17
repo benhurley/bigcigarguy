@@ -85,6 +85,7 @@ sections:
             flexDirection: col
             justifyContent: center
         tagline: "/ˈ[ gahrd ]/ (adjective)\_That mid-cigar feeling."
+        text: "/ˈ\\[ gahrd ]/ (*adjective)\_*That mid-cigar feeling.\n"
       - type: FeaturedItem
         title: Cotton Knit Throws
         subtitle: $ 44.99 – $ 90
