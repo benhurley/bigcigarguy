@@ -84,7 +84,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-        tagline: "/ˈ[ gahrd ]/ (adjective)\_That mid-cigar feeling."
+        tagline: Best Seller
         text: "/ˈ\\[ gahrd ]/ (*adjective)\_*That mid-cigar feeling.\n"
       - type: FeaturedItem
         title: Cotton Knit Throws
