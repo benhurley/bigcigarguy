@@ -233,7 +233,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: ''
+      text: Featured Collection
       color: text-dark
     subtitle: Best Sellers
 seo:
