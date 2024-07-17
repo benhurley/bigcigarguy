@@ -262,7 +262,7 @@ sections:
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/IMG_2438.JPG
           altText: Business consulting
           elementId: ''
           styles:
