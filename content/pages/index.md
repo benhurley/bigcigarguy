@@ -4,13 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Taylormade Apparel For Cigar Buffs Since 2018
+      text: Life's Too Short for Stale Cigars and Boring Merch.
       color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >
-      Big Cigar Guy was made for those that love blasting a smooth ‘gar on the
-      weekends, or enjoying a cold one after a day filled with corporate wins.
+      Big Cigar Guy was made for those that don't take life too serious, love
+      blasting a smooth ‘gar on the weekends, and indulge in a cold beverage
+      after a day filled with corporate wins.
     actions:
       - type: Button
         label: Visit Our Shop
@@ -20,6 +21,15 @@ sections:
         icon: shoppingBag
         iconPosition: left
         style: primary
+        elementId: ''
+      - type: Button
+        label: Contact Us
+        altText: ''
+        url: '@mailto:bigcigarguy@pm.me'
+        showIcon: true
+        icon: mail
+        iconPosition: left
+        style: secondary
         elementId: ''
     media:
       url: /images/Testimonial.JPG
