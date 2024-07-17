@@ -233,10 +233,8 @@ sections:
         title: Cool Down
         tagline: Cool Down
         subtitle: $25.49
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Nothing better after 18 than a Cool Down on 19.
         image:
           type: ImageBlock
           url: /images/IMG_4979.JPG
