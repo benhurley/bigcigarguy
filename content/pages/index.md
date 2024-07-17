@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Apparel Made to Wear While Blastin' Cigars
+      text: Apparel Made to Wear While Cheefin' Cigars
       color: text-dark
       type: TitleBlock
     subtitle: ''
