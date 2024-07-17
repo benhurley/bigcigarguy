@@ -60,10 +60,7 @@ sections:
           options, and designs are simple and fun..”
         tagline: ''
         subtitle: 'Max, Florida'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
