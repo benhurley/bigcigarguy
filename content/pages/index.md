@@ -248,7 +248,7 @@ sections:
     actions:
       - type: Link
         label: Email Us
-        url: /
+        url: 'mailto:bigcigarguy@pm.me'
         showIcon: true
         icon: arrowRight
         iconPosition: right
