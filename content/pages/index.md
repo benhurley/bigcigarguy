@@ -225,7 +225,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
     variant: dots-nav
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
