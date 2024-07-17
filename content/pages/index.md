@@ -84,6 +84,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+        tagline: Best to wear when you and the boys are rippin'
       - type: FeaturedItem
         title: Cotton Knit Throws
         subtitle: $ 44.99 – $ 90
