@@ -25,7 +25,7 @@ sections:
         label: Contact Us
         altText: ''
         url: '@mailto:bigcigarguy@pm.me'
-        showIcon: false
+        showIcon: true
         icon: mail
         iconPosition: left
         style: secondary
