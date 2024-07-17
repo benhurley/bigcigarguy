@@ -99,6 +99,8 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        text: |
+          Keeps 'em frosty in the cart (or on the beach).
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
