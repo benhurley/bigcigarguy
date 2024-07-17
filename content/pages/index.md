@@ -123,7 +123,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Cool Down
-        tagline: Cool Down
+        tagline: Best Seller
         subtitle: $25.49
         text: |
           Nothing better after 18 than a Cool Down on 19.
