@@ -295,7 +295,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Featured Collection
+      text: Best Sellers
       color: text-dark
 seo:
   metaTitle: Home | Big Cigar Guy
