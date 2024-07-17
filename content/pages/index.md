@@ -84,7 +84,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-        tagline: Best Seller
+        tagline: Back In Stock
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
       - type: FeaturedItem
         title: Hacker Sleeve
