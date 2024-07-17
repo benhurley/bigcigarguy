@@ -21,6 +21,15 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '@mailto:bigcigarguy@pm.me'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/Testimonial.JPG
       altText: Unblock your team boost your time to production preview
