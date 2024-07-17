@@ -283,7 +283,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Hacker Sleeve
-        tagline: This is the tagline
+        tagline: Hacker Sleeve
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
