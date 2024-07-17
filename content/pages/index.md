@@ -230,7 +230,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Cool Down
         tagline: Cool Down
         subtitle: Increase your reach
         text: >-
