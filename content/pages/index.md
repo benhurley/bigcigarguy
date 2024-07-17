@@ -63,7 +63,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/Don copy.jpg
           altText: Jane Doe
           styles:
             self:
