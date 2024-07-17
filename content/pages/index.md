@@ -239,7 +239,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Need Gear For Your Event?
       color: text-dark
     subtitle: Increase your reach
     text: >
