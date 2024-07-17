@@ -117,7 +117,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Reviews
+      text: Testimonials
       color: text-dark
   - type: CarouselSection
     items:
