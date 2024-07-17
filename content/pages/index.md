@@ -174,7 +174,7 @@ sections:
             label: Get started
             altText: ''
             url: 'https://www.bonfire.com/gard'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
