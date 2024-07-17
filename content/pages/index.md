@@ -256,7 +256,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: gar'd
         tagline: gar'd
         subtitle: $23.50
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
