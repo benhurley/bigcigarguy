@@ -193,7 +193,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Hacker Sleeve
-        tagline: Hacker Sleeve
+        tagline: BACK IN STOCK
         subtitle: $10.49
         text: |
           Keeps 'em frosty in the cart (or on the beach).
