@@ -123,7 +123,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Testimonials
       color: text-dark
 seo:
   metaTitle: Home | Big Cigar Guy
