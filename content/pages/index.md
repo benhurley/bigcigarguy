@@ -209,7 +209,7 @@ sections:
             label: Buy
             altText: ''
             url: 'https://www.bonfire.com/hacker-sleeve'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
