@@ -74,6 +74,8 @@ sections:
         actions: []
         colors: bg-light-fg-dark
         tagline: Best Seller
+        text: |
+          Nothing better after 18 than a Cool Down on the 19.
       - type: FeaturedItem
         title: Hacker Sleeve
         subtitle: $10.49
