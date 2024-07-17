@@ -204,16 +204,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
-          - type: Button
-            label: Buy
-            altText: ''
-            url: 'https://www.bonfire.com/hacker-sleeve'
-            showIcon: true
-            icon: shoppingBag
-            iconPosition: left
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
