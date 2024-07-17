@@ -52,7 +52,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: Testimonials
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
