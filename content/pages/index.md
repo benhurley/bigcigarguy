@@ -239,7 +239,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Need Gear For An Event?
+      text: Need Merch For An Event?
       color: text-dark
     subtitle: ''
     text: >
