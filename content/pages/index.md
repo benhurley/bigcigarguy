@@ -175,7 +175,7 @@ sections:
             altText: ''
             url: 'https://www.bonfire.com/gard'
             showIcon: false
-            icon: arrowRight
+            icon: shoppingBag
             iconPosition: left
             style: primary
             elementId: ''
