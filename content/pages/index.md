@@ -51,6 +51,114 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Featured Collection
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    items:
+      - type: FeaturedItem
+        title: Cool Down
+        subtitle: $25.49
+        image:
+          type: ImageBlock
+          url: /images/IMG_4979.JPG
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://bonfire.com/cool-down'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
+        colors: bg-light-fg-dark
+        tagline: Best Seller
+        text: |
+          Nothing better after 18 than a Cool Down on 19.
+      - type: FeaturedItem
+        title: Hacker Sleeve
+        subtitle: $10.49
+        image:
+          type: ImageBlock
+          url: /images/koozie.jpg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://bonfire.com/hacker-sleeve'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
+        colors: bg-light-fg-dark
+        text: |
+          Keeps 'em frosty in the cart (or on the beach).
+        tagline: Back In Stock
+      - type: FeaturedItem
+        title: gar'd
+        subtitle: $23.50
+        image:
+          type: ImageBlock
+          url: /images/IMG_2438.JPG
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://bonfire.com/gard'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+        tagline: Best Seller
+        text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: flex-start
+      subtitle:
+        textAlign: center
   - type: CarouselSection
     subtitle: ''
     items:
