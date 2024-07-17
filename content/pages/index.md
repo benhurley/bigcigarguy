@@ -87,7 +87,7 @@ sections:
         tagline: Best Seller
         text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Hacker Sleeve
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
