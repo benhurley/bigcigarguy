@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Big Cigar Guy (BCG) was made for those that don't take life too serious,
-      love blasting a smooth ‘gar, and indulge in a cold beverage after a day
-      filled with corporate wins.
+      Apparel for those that don't take life too serious, love blasting a smooth
+      ‘gar, and indulge in a cold beverage after a day filled with corporate
+      wins.
     actions:
       - type: Button
         label: Visit Our Shop
@@ -262,11 +262,17 @@ sections:
       self:
         alignItems: center
 seo:
-  metaTitle: Home | Big Cigar Guy
-  metaDescription: A Lifestyle Brand Crafted For The Modern Cigar Buff
+  metaTitle: Big Cigar Guy
+  metaDescription: Light up your style with Big Cigar Guy Apparel
   socialImage: /images/Testimonial.JPG
   type: Seo
   addTitleSuffix: false
-  metaTags: []
+  metaTags:
+    - type: MetaTag
+      property: 'og:description'
+      content: Light up your style with Big Cigar Guy Apparel
+    - type: MetaTag
+      property: 'og:title'
+      content: Big Cigar Guy
 type: PageLayout
 ---
