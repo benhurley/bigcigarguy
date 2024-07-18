@@ -263,7 +263,7 @@ sections:
         alignItems: center
 seo:
   metaTitle: Home | Big Cigar Guy
-  metaDescription: A Lifestyle Brand Crafted For The Modern Cigar Buff
+  metaDescription: Light up your style with Big Cigar Guy Apparel
   socialImage: /images/Testimonial.JPG
   type: Seo
   addTitleSuffix: false
