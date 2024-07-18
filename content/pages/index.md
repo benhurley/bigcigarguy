@@ -270,5 +270,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:description'
+      content: Light up your style with Big Cigar Guy Apparel
 type: PageLayout
 ---
