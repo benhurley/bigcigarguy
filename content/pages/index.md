@@ -273,5 +273,6 @@ seo:
       content: Light up your style with Big Cigar Guy Apparel
     - type: MetaTag
       property: 'og:title'
+      content: Big Cigar Guy
 type: PageLayout
 ---
