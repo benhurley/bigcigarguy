@@ -269,5 +269,6 @@ seo:
   addTitleSuffix: false
   metaTags:
     - type: MetaTag
+      property: 'og:description'
 type: PageLayout
 ---
