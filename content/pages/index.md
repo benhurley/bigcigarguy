@@ -262,7 +262,7 @@ sections:
       self:
         alignItems: center
 seo:
-  metaTitle: Home | Big Cigar Guy
+  metaTitle: Big Cigar Guy
   metaDescription: Light up your style with Big Cigar Guy Apparel
   socialImage: /images/Testimonial.JPG
   type: Seo
