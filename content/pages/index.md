@@ -274,6 +274,5 @@ seo:
     - type: MetaTag
       property: 'og:title'
       content: Big Cigar Guy
-    - type: MetaTag
 type: PageLayout
 ---
