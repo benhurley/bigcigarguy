@@ -8,8 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      Apparel for those that don't take life too serious.
+    text: ''
     actions:
       - type: Button
         label: Visit Our Shop
