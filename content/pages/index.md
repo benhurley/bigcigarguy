@@ -50,6 +50,32 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Need Merch For An Event?
+      color: text-dark
+    subtitle: ''
+    text: >
+      From backyard parties to golf tournaments, we're ready and available to
+      sponsor your next event. For large orders, wholesale pricing may be
+      available.
+    actions:
+      - type: Link
+        label: Email Us
+        url: 'mailto:bigcigarguy@pm.me'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: CarouselSection
     subtitle: ''
     items:
@@ -235,32 +261,6 @@ sections:
       text: Summer 2024 Collection
       color: text-dark
     subtitle: ''
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Need Merch For An Event?
-      color: text-dark
-    subtitle: ''
-    text: >
-      From backyard parties to golf tournaments, we're ready and available to
-      sponsor your next event. For large orders, wholesale pricing may be
-      available.
-    actions:
-      - type: Link
-        label: Email Us
-        url: 'mailto:bigcigarguy@pm.me'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        alignItems: center
 seo:
   metaTitle: Big Cigar Guy
   metaDescription: Light up your style with Big Cigar Guy Apparel
