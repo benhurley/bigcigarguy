@@ -231,8 +231,8 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Super light and true to size. Big fan of the color options, and
-          designs are simple and fun.”
+          “Super light and true to size. Big fan of the color options. Designs
+          are simple and fun.”
         tagline: ''
         subtitle: '- Max, Florida'
         text: ''
