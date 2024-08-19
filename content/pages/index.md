@@ -193,6 +193,14 @@ sections:
     styles:
       self:
         alignItems: center
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: CarouselSection
     subtitle: ''
     items:
