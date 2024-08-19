@@ -7,7 +7,9 @@ sections:
       text: Light up your style with Big Cigar Guy
       color: text-dark
       type: TitleBlock
-    subtitle: We make golf and cigar apparel for those that don't take life too serious.
+    subtitle: >-
+      We create golf and cigar apparel for those who enjoy life without taking
+      it too seriously.
     text: ''
     actions:
       - type: Button
