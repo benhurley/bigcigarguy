@@ -7,11 +7,10 @@ sections:
       text: Light up your style with Big Cigar Guy
       color: text-dark
       type: TitleBlock
-    subtitle: ''
-    text: >
-      Apparel for those that don't take life too serious, love blasting a smooth
-      ‘gar, and indulge in a cold beverage after a day filled with corporate
-      wins.
+    subtitle: >-
+      We create golf and cigar apparel for those who enjoy life without taking
+      it too seriously.
+    text: ''
     actions:
       - type: Button
         label: Visit Our Shop
@@ -51,74 +50,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: CarouselSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: >-
-          "When you are traveling and light up a cigar while wearing BCG gear,
-          people notice! The quality and fit are impeccable, highly recommend.
-        tagline: ''
-        subtitle: '- Don, Alabama'
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Don copy.jpg
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
-          “Super light, breathable, and true to size. Big fan of the color
-          options, and designs are simple and fun.”
-        tagline: ''
-        subtitle: '- Max, Florida'
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/IMG_3177.PNG
-          altText: Max wearing BCG OG shirt
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    title:
-      type: TitleBlock
-      text: Testimonials
-      color: text-dark
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -243,8 +174,9 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      We love sponsoring everything from Member-Guests to Social Clubs. For
-      large orders, wholesale pricing may be available.
+      From backyard parties to golf tournaments, we're ready and available to
+      sponsor your next event. For large orders, wholesale pricing may be
+      available.
     actions:
       - type: Link
         label: Email Us
@@ -261,6 +193,74 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: >-
+          "When you are traveling and light up a cigar while wearing BCG gear,
+          people notice! The quality and fit are impeccable, highly recommend.
+        tagline: ''
+        subtitle: '- Don, Alabama'
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Don copy.jpg
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: >-
+          “Super light, breathable, and true to size. Big fan of the color
+          options, and designs are simple and fun.”
+        tagline: ''
+        subtitle: '- Max, Florida'
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/BCG_shirt copy.png
+          altText: Max wearing BCG OG shirt
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: Testimonials
+      color: text-dark
 seo:
   metaTitle: Big Cigar Guy
   metaDescription: Light up your style with Big Cigar Guy Apparel
