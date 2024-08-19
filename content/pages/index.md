@@ -242,8 +242,8 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      We love sponsoring everything from Member-Guests to Social Clubs. For
-      large orders, wholesale pricing may be available.
+      We're ready to sponsor anything from backyard parties to golf tournaments.
+      For large orders, wholesale pricing may be available.
     actions:
       - type: Link
         label: Email Us
