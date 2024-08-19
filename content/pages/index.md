@@ -205,9 +205,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          "When you are traveling and light up a cigar while wearing BCG gear,
-          people notice! The quality and fit are impeccable, highly recommend.
+        title: '"The quality and fit are impeccable, highly recommend."'
         tagline: ''
         subtitle: '- Don, Alabama'
         text: ''
@@ -232,9 +230,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “Super light, breathable, and true to size. Big fan of the color
-          options, and designs are simple and fun.”
+        title: “Super light and true-to-size. Designs are simple and fun.”
         tagline: ''
         subtitle: '- Max, Florida'
         text: ''
