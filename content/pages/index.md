@@ -242,8 +242,9 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      We're ready to sponsor anything from backyard parties to golf tournaments.
-      For large orders, wholesale pricing may be available.
+      From backyard parties to golf tournaments, we're ready and available to
+      sponsor your next event. For large orders, wholesale pricing may be
+      available.
     actions:
       - type: Link
         label: Email Us
