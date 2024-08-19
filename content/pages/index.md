@@ -89,7 +89,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/IMG_3177.PNG
+          url: /images/BCG_shirt copy.png
           altText: Max wearing BCG OG shirt
           styles:
             self:
