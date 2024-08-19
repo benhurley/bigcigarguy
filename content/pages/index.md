@@ -174,7 +174,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      From backyard parties to golf tournaments, we're ready and available to
+      From birthday parties to golf tournaments, we're ready and available to
       sponsor your next event. For large orders, wholesale pricing may be
       available.
     actions:
@@ -193,6 +193,14 @@ sections:
     styles:
       self:
         alignItems: center
+    media:
+      type: ImageBlock
+      url: /images/IMG_6410.JPG
+      altText: boys wearing gar'd shirts
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: CarouselSection
     subtitle: ''
     items:
