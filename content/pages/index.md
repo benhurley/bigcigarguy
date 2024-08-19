@@ -196,7 +196,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG_6410.JPG
-      altText: Image alt text placeholder
+      altText: boys wearing gar'd shirts
       elementId: ''
       styles:
         self:
