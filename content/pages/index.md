@@ -4,8 +4,8 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: >-
-      We create golf and cigar apparel for those who enjoy life without taking
-      it too seriously.
+      Golf and Cigar apparel for those who enjoy life without taking it too
+      seriously.
     text: ''
     actions:
       - type: Button
