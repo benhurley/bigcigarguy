@@ -196,7 +196,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG_8025 Copy.JPG
-      altText: boys wearing gar'd shirts
+      altText: cool down shirts
       elementId: ''
       styles:
         self:
