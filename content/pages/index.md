@@ -164,7 +164,7 @@ sections:
       available.
     actions:
       - type: Link
-        label: Email Us
+        label: Inquire
         url: 'mailto:bigcigarguy@pm.me'
         showIcon: true
         icon: arrowRight
