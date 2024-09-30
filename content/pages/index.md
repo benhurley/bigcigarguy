@@ -3,13 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: Light up your style with Big Cigar Guy
-      color: text-dark
-      type: TitleBlock
-    subtitle: >-
-      We create golf and cigar apparel for those who enjoy life without taking
-      it too seriously.
+    subtitle: High-Quality Apparel for Golfers and Cigar Enthusiasts since 2018.
     text: ''
     actions:
       - type: Button
@@ -36,7 +30,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Est. 2018
+      label: BIG CIGAR GUY
       color: text-primary
       type: Badge
     elementId: ''
