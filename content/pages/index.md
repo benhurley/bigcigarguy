@@ -30,7 +30,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: BIG CIGAR GUY Est. 2018
+      label: BIG CIGAR GUY
       color: text-primary
       type: Badge
     elementId: ''
