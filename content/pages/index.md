@@ -37,7 +37,7 @@ sections:
           - pr-16
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Big Cigar Guy
       color: text-dark
   - type: CarouselSection
     items:
