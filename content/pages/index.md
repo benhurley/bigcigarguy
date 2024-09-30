@@ -195,7 +195,7 @@ sections:
         alignItems: center
     media:
       type: ImageBlock
-      url: /images/IMG_8025 Copy.JPG
+      url: /images/IMG_8025_small.JPG
       altText: cool down shirts
       elementId: ''
       styles:
