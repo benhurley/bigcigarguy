@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: 'Golf and Cigar apparel for the modern-day enthusiast, since 2018.'
+    subtitle: 'High-Quality Apparel For Golfers and Cigar Enthusiasts, since 2018.'
     text: ''
     actions:
       - type: Button
