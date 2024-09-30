@@ -3,9 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: >-
-      Golf and Cigar apparel for those who enjoy life without taking it too
-      seriously.
+    subtitle: Golf and Cigar apparel for the modern-day enthusiest
     text: ''
     actions:
       - type: Button
