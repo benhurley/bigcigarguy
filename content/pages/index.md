@@ -195,7 +195,7 @@ sections:
         alignItems: center
     media:
       type: ImageBlock
-      url: /images/IMG_8025 2.jpeg
+      url: /images/IMG_8025 Copy.JPG
       altText: boys wearing gar'd shirts
       elementId: ''
       styles:
