@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: High-Quality Apparel for Golfers and Cigar Enthusiasts since 2018.
+    subtitle: High-Quality Apparel for Golfers and Cigar Enthusiasts.
     text: ''
     actions:
       - type: Button
@@ -15,22 +15,13 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
-      - type: Link
-        label: Email Us
-        altText: Play
-        url: 'mailto:bigcigarguy@pm.me'
-        showIcon: true
-        icon: mail
-        iconPosition: left
-        style: primary
-        elementId: ''
     media:
       url: /images/Testimonial.JPG
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: BIG CIGAR GUY
+      label: Est. 2018
       color: text-primary
       type: Badge
     elementId: ''
@@ -44,6 +35,10 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    title:
+      type: TitleBlock
+      text: Big Cigar Guy
+      color: text-dark
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -173,7 +168,7 @@ sections:
       available.
     actions:
       - type: Link
-        label: Email Us
+        label: Inquire
         url: 'mailto:bigcigarguy@pm.me'
         showIcon: true
         icon: arrowRight
