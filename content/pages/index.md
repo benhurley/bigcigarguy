@@ -15,15 +15,6 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
-      - type: Link
-        label: Email Us
-        altText: Play
-        url: 'mailto:bigcigarguy@pm.me'
-        showIcon: true
-        icon: mail
-        iconPosition: left
-        style: primary
-        elementId: ''
     media:
       url: /images/Testimonial.JPG
       altText: Unblock your team boost your time to production preview
