@@ -195,8 +195,8 @@ sections:
         alignItems: center
     media:
       type: ImageBlock
-      url: /images/IMG_6410.JPG
-      altText: boys wearing gar'd shirts
+      url: /images/IMG_8025_small.JPG
+      altText: cool down shirts
       elementId: ''
       styles:
         self:
