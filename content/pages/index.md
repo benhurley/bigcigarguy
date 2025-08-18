@@ -16,7 +16,7 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/Ben Final_BIG CIGAR GUY_wo text_LR.jpg
+      url: /images/Ben Final_BIG CIGAR GUY_wo text_LR copy.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
