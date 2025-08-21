@@ -153,7 +153,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Summer 2024 Collection
+      text: Summer 2025 Collection
       color: text-dark
     subtitle: ''
   - type: GenericSection
