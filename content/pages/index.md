@@ -182,7 +182,7 @@ sections:
             altText: ''
             url: 'https://www.bonfire.com/blastin-cap/'
             showIcon: true
-            icon: arrowRight
+            icon: shoppingBag
             iconPosition: left
             style: primary
             elementId: ''
