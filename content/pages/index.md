@@ -39,123 +39,6 @@ sections:
       type: TitleBlock
       text: Big Cigar Guy
       color: text-dark
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Cool Down
-        tagline: BEST SELLER
-        subtitle: $25.49
-        text: |
-          Nothing better after 18 than a Cool Down on 19.
-        image:
-          type: ImageBlock
-          url: /images/IMG_4979.JPG
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: Buy
-            altText: ''
-            url: 'https://bonfire.com/cool-down'
-            showIcon: true
-            icon: shoppingBag
-            iconPosition: left
-            style: primary
-            elementId: ''
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: gar'd
-        tagline: BEST SELLER
-        subtitle: $23.50
-        text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
-        image:
-          type: ImageBlock
-          url: /images/IMG_2438.JPG
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: Buy
-            altText: ''
-            url: 'https://www.bonfire.com/gard'
-            showIcon: true
-            icon: shoppingBag
-            iconPosition: left
-            style: primary
-            elementId: ''
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Hacker Sleeve
-        tagline: BACK IN STOCK
-        subtitle: $10.49
-        text: |
-          Keeps 'em frosty in the cart (or on the beach).
-        image:
-          type: ImageBlock
-          url: /images/koozie.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Buy
-            altText: ''
-            url: 'https://www.bonfire.com/hacker-sleeve'
-            showIcon: true
-            icon: shoppingBag
-            iconPosition: left
-            style: primary
-            elementId: ''
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-    variant: dots-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    title:
-      type: TitleBlock
-      text: Summer 2024 Collection
-      color: text-dark
-    subtitle: ''
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -281,6 +164,123 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Cool Down
+        tagline: BEST SELLER
+        subtitle: $25.49
+        text: |
+          Nothing better after 18 than a Cool Down on 19.
+        image:
+          type: ImageBlock
+          url: /images/IMG_4979.JPG
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://bonfire.com/cool-down'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: gar'd
+        tagline: BEST SELLER
+        subtitle: $23.50
+        text: "/ˈ\\[ gahrd ]/ *(adjective)*\_That mid-cigar feeling.\n"
+        image:
+          type: ImageBlock
+          url: /images/IMG_2438.JPG
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://www.bonfire.com/gard'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Hacker Sleeve
+        tagline: BACK IN STOCK
+        subtitle: $10.49
+        text: |
+          Keeps 'em frosty in the cart (or on the beach).
+        image:
+          type: ImageBlock
+          url: /images/koozie.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://www.bonfire.com/hacker-sleeve'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    variant: dots-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: Best Sellers
+      color: text-dark
+    subtitle: ''
   - type: GenericSection
     title:
       type: TitleBlock
