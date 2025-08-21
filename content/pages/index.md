@@ -166,7 +166,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Blastin Hat
+        title: Blastin' Hat
         subtitle: ''
         image:
           type: ImageBlock
