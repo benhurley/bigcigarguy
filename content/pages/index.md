@@ -170,7 +170,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Screenshot 2025-08-21 at 7.10.06 PM.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
