@@ -159,7 +159,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: New Arrivals
       color: text-dark
       styles:
         self:
