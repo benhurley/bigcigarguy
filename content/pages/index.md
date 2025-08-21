@@ -198,33 +198,75 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-        tagline: $24.99
+        tagline: $24.99 - $29.99
       - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        title: The Reserve Tee
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
+          url: /images/The_Reserve_Tee.png
+          altText: Faux Fur Throw
           elementId: ''
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://www.bonfire.com/the-reserve-tee/'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+        tagline: $24.99 - $29.99
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
+        title: The Reserve Golf Towel
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Chunky Cotton Knit Throw
+          url: /images/Golf_Towel.png
+          altText: Faux Fur Throw
           elementId: ''
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Button
+            label: Buy
+            altText: ''
+            url: 'https://www.bonfire.com/the-reserve-golf-towel/'
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+        tagline: $14.99
     actions: []
     elementId: ''
     variant: three-col-grid
