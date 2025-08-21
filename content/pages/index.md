@@ -181,7 +181,7 @@ sections:
             label: Buy
             altText: ''
             url: 'https://www.bonfire.com/blastin-cap/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: left
             style: primary
